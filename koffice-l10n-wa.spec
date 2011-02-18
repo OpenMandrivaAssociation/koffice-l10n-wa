@@ -1,5 +1,5 @@
 Name: koffice-l10n-wa
-Version: 2.3.1
+Version: 2.3.2
 Release: %mkrel 1
 Summary: Language files for KOffice Walloon
 Group: System/Internationalization
