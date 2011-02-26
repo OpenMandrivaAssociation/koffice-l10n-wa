@@ -1,6 +1,6 @@
 Name: koffice-l10n-wa
 Version: 2.3.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Walloon
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
